@@ -1,96 +1,97 @@
-iso_639_1:
-	ab: abkhaze
-	af: afrikaans
-	an: aragonais
-	ar: arabe
-	as: assamais
-	az: azéri; azerbaïdjanais
-	be: biélorusse
-	bg: bulgare
-	bn: bengali
-	bo: tibétain
-	br: breton
-	bs: bosniaque
-	ca: catalan / valencien
-	ce: tchétchène
-	co: corse
-	cs: tchèque
-	cy: gallois
-	da: danois
-	de: allemand
-	el: Grec
-	en: anglais
-	eo: espéranto
-	es: espagnol / castillan
-	et: estonien
-	eu: basque
-	fa: persan
-	fi: finnois
-	fj: fidjien
-	fo: féroïen
-	fr: français
-	fy: frison occidental
-	ga: irlandais
-	gd: gaélique / gaélique écossais
-	gl: galicien
-	gv: manx; mannois
-	he: hébreu
-	hi: hindi
-	hr: croate
-	ht: haïtien; créole haïtien
-	hu: hongrois
-	hy: arménien
-	id: indonésien
-	is: islandais
-	it: italien
-	ja: japonais
-	jv: javanais
-	ka: géorgien
-	kg: kongo
-	ko: coréen
-	ku: kurde
-	kw: cornique
-	ky: kirghize
-	la: latin
-	lb: luxembourgeois
-	li: limbourgeois
-	ln: lingala
-	lt: lituanien
-	lv: letton
-	mg: malgache
-	mk: macédonien
-	mn: mongol
-	mo: moldave
-	ms: malais
-	mt: maltais
-	my: birman
-	nb: norvégien (bokmål)
-	ne: népalais
-	nl: néerlandais
-	nn: norvégien (nynorsk)
-	no: norvégien
-	oc: occitan (après 1500); provençal
-	pl: polonais
-	pt: portugais
-	rm: rhéto-roman ; (romanche)
-	ro: roumain
-	ru: russe
-	sc: sarde
-	se: sami du Nord
-	sk: slovaque
-	sl: slovène
-	so: somali
-	sq: albanais
-	sr: serbe
-	sv: Suédois
-	sw: swahili
-	tk: turkmène
-	tr: turc
-	ty: tahitien
-	uk: ukrainien
-	ur: ourdou
-	uz: ouszbek
-	vi: vietnamien
-	vo: volapük
-	yi: yiddish
-	zh: chinois
+fr:
+  iso_639_1:
+    ab: abkhaze
+    af: afrikaans
+    an: aragonais
+    ar: arabe
+    as: assamais
+    az: azéri; azerbaïdjanais
+    be: biélorusse
+    bg: bulgare
+    bn: bengali
+    bo: tibétain
+    br: breton
+    bs: bosniaque
+    ca: catalan / valencien
+    ce: tchétchène
+    co: corse
+    cs: tchèque
+    cy: gallois
+    da: danois
+    de: allemand
+    el: Grec
+    en: anglais
+    eo: espéranto
+    es: espagnol / castillan
+    et: estonien
+    eu: basque
+    fa: persan
+    fi: finnois
+    fj: fidjien
+    fo: féroïen
+    fr: français
+    fy: frison occidental
+    ga: irlandais
+    gd: gaélique / gaélique écossais
+    gl: galicien
+    gv: manx; mannois
+    he: hébreu
+    hi: hindi
+    hr: croate
+    ht: haïtien; créole haïtien
+    hu: hongrois
+    hy: arménien
+    id: indonésien
+    is: islandais
+    it: italien
+    ja: japonais
+    jv: javanais
+    ka: géorgien
+    kg: kongo
+    ko: coréen
+    ku: kurde
+    kw: cornique
+    ky: kirghize
+    la: latin
+    lb: luxembourgeois
+    li: limbourgeois
+    ln: lingala
+    lt: lituanien
+    lv: letton
+    mg: malgache
+    mk: macédonien
+    mn: mongol
+    mo: moldave
+    ms: malais
+    mt: maltais
+    my: birman
+    nb: norvégien (bokmål)
+    ne: népalais
+    nl: néerlandais
+    nn: norvégien (nynorsk)
+    no: norvégien
+    oc: occitan (après 1500); provençal
+    pl: polonais
+    pt: portugais
+    rm: rhéto-roman ; (romanche)
+    ro: roumain
+    ru: russe
+    sc: sarde
+    se: sami du Nord
+    sk: slovaque
+    sl: slovène
+    so: somali
+    sq: albanais
+    sr: serbe
+    sv: Suédois
+    sw: swahili
+    tk: turkmène
+    tr: turc
+    ty: tahitien
+    uk: ukrainien
+    ur: ourdou
+    uz: ouszbek
+    vi: vietnamien
+    vo: volapük
+    yi: yiddish
+    zh: chinois

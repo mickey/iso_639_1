@@ -1,97 +1,98 @@
-iso_639_1:
-	ab: Abcaze
-	af: Afrikaans
-	an: Aragonês
-	ar: Árabe
-	as: Assamês
-	az: Azeri
-	be: Bielorusso
-	bg: Búlgaro
-	bn: Bengali
-	bo: Tibetano
-	br: Bretão
-	bs: Bósnio
-	ca: Catalão / Valenciano
-	ce: Tchetcheno
-	co: Corso
-	cs: Checo
-	cu: Eslavo de Igreja
-	cy: Galês
-	da: Dinamarquês
-	de: Alemão
-	el: Grego
-	en: Inglês
-	eo: Esperanto
-	es: Espanhol / Castelhano
-	et: Estónio
-	eu: Basco
-	fa: Persa
-	fi: Finlandês
-	fj: Fidjiano
-	fo: Feroês
-	fr: Francês
-	fy: Frísio Ocidental
-	ga: Irlandês
-	gd: Gaélico / Gaélico Escocês
-	gl: Galego
-	gv: Manx
-	he: Hebraico
-	hi: Hindi
-	hr: Croata
-	ht: Haitiano; Criolo Haitiano
-	hu: Húngaro
-	hy: Arménio
-	id: Indonésio
-	is: Islandês
-	it: Italiano
-	ja: Japonês
-	jv: Javanês
-	ka: Geórgio
-	kg: Congo
-	ko: Coreano
-	ku: Curdo
-	kw: Córnico
-	ky: Quirguize
-	la: Latim
-	lb: Luxemburguês
-	li: Limburguês
-	ln: Lingala
-	lt: Lituano
-	lv: Letão
-	mg: Malgache
-	mk: Macedónio
-	mn: Mongol
-	mo: Moldavo
-	ms: Malaio
-	mt: Maltês
-	my: Birmanês
-	nb: Norueguês (Bokmål)
-	ne: Nepalês
-	nl: Neerlandês
-	nn: Norueguês (Nynors)
-	no: Norueguês
-	oc: Occitânio (pós-1500); Provençal
-	pl: Polaco
-	pt: Português
-	rm: Reto-Romano
-	ro: Romeno
-	ru: Russo
-	sc: Sardo
-	se: Sami Setentrional
-	sk: Eslovaco
-	sl: Eslovénio
-	so: Somali
-	sq: Albanês
-	sr: Sérvio
-	sv: Sueco
-	sw: Swahili
-	tk: Turquemeno
-	tr: Turco
-	ty: Taitiano
-	uk: Ucraniano
-	ur: Urdu
-	uz: Uzbeque
-	vi: Vietnamita
-	vo: Volapük
-	yi: Yiddish
-	zh: Chinês
+pt:
+  iso_639_1:
+    ab: Abcaze
+    af: Afrikaans
+    an: Aragonês
+    ar: Árabe
+    as: Assamês
+    az: Azeri
+    be: Bielorusso
+    bg: Búlgaro
+    bn: Bengali
+    bo: Tibetano
+    br: Bretão
+    bs: Bósnio
+    ca: Catalão / Valenciano
+    ce: Tchetcheno
+    co: Corso
+    cs: Checo
+    cu: Eslavo de Igreja
+    cy: Galês
+    da: Dinamarquês
+    de: Alemão
+    el: Grego
+    en: Inglês
+    eo: Esperanto
+    es: Espanhol / Castelhano
+    et: Estónio
+    eu: Basco
+    fa: Persa
+    fi: Finlandês
+    fj: Fidjiano
+    fo: Feroês
+    fr: Francês
+    fy: Frísio Ocidental
+    ga: Irlandês
+    gd: Gaélico / Gaélico Escocês
+    gl: Galego
+    gv: Manx
+    he: Hebraico
+    hi: Hindi
+    hr: Croata
+    ht: Haitiano; Criolo Haitiano
+    hu: Húngaro
+    hy: Arménio
+    id: Indonésio
+    is: Islandês
+    it: Italiano
+    ja: Japonês
+    jv: Javanês
+    ka: Geórgio
+    kg: Congo
+    ko: Coreano
+    ku: Curdo
+    kw: Córnico
+    ky: Quirguize
+    la: Latim
+    lb: Luxemburguês
+    li: Limburguês
+    ln: Lingala
+    lt: Lituano
+    lv: Letão
+    mg: Malgache
+    mk: Macedónio
+    mn: Mongol
+    mo: Moldavo
+    ms: Malaio
+    mt: Maltês
+    my: Birmanês
+    nb: Norueguês (Bokmål)
+    ne: Nepalês
+    nl: Neerlandês
+    nn: Norueguês (Nynors)
+    no: Norueguês
+    oc: Occitânio (pós-1500); Provençal
+    pl: Polaco
+    pt: Português
+    rm: Reto-Romano
+    ro: Romeno
+    ru: Russo
+    sc: Sardo
+    se: Sami Setentrional
+    sk: Eslovaco
+    sl: Eslovénio
+    so: Somali
+    sq: Albanês
+    sr: Sérvio
+    sv: Sueco
+    sw: Swahili
+    tk: Turquemeno
+    tr: Turco
+    ty: Taitiano
+    uk: Ucraniano
+    ur: Urdu
+    uz: Uzbeque
+    vi: Vietnamita
+    vo: Volapük
+    yi: Yiddish
+    zh: Chinês

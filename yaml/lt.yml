@@ -1,97 +1,98 @@
-iso_639_1:
-	ab: Abchazų
-	af: Afrikanų
-	an: Aragoniečių
-	ar: Arabų
-	as: Asamų
-	az: Azerbaidžaniečių
-	be: Baltarusių
-	bg: Bulgarų
-	bn: Bengalų
-	bo: Tibetiečių
-	br: Bretonų
-	bs: Bosnių
-	ca: Katalonų / Valensijos
-	ce: Čečenų
-	co: Korsikiečių
-	cs: Čekų
-	cu: Bažnytinė slavų kalba
-	cy: Velsiečių
-	da: Danų
-	de: Vokiečių
-	el: graikų
-	en: Anglų
-	eo: Esperanto
-	es: Ispanų / Kastilų
-	et: Estų
-	eu: Baskų
-	fa: Persų
-	fi: Suomių
-	fj: Fidžių
-	fo: Farerų
-	fr: Prancūzų
-	fy: Vakarų fryzų
-	ga: Airių
-	gd: Gėlų / Škotijos gėlų
-	gl: Galisų
-	gv: Manksų
-	he: Hebrajų
-	hi: Hindi
-	hr: Kroatų
-	ht: Haitiečių; Haičio kreolų
-	hu: Vengrų
-	hy: Armėnų
-	id: Indoneziečių
-	is: Islandų
-	it: Italų
-	ja: Japonų
-	jv: Javiečių
-	ka: Gruzinų
-	kg: Kongo
-	ko: Korėjiečių
-	ku: Kurdų
-	kw: Kornų
-	ky: Kirgizų
-	la: Lotynų
-	lb: Liuksemburgiečių
-	li: Limburgiečių
-	ln: Lingala
-	lt: Lietuvių
-	lv: Latvių
-	mg: Malagasių
-	mk: Makedonų
-	mn: Mongolų
-	mo: Moldavų
-	ms: Malajų
-	mt: Maltiečių
-	my: Birmiečių
-	nb: Norvegų (standartinė kalba)
-	ne: Nepalų
-	nl: Olandų
-	nn: Norvegų (naujoji kalba)
-	no: Norvegų
-	oc: Oksitanų (po 1500 m.); provansalų
-	pl: Lenkų
-	pt: Portugalų
-	rm: Retoromanų kalbos
-	ro: Rumunų
-	ru: Rusų
-	sc: Sardinų
-	se: Šiaurės samių
-	sk: Slovakų
-	sl: Slovėnų
-	so: Somalių
-	sq: Albanų
-	sr: Serbų
-	sv: Švedų
-	sw: Svahilių
-	tk: Turkmėnų
-	tr: Turkų
-	ty: Taičio
-	uk: Ukrainiečių
-	ur: Urdu
-	uz: Uzbekų
-	vi: Vietnamiečių
-	vo: Volapiukas
-	yi: Jidiš
-	zh: Kinų
+lt:
+  iso_639_1:
+    ab: Abchazų
+    af: Afrikanų
+    an: Aragoniečių
+    ar: Arabų
+    as: Asamų
+    az: Azerbaidžaniečių
+    be: Baltarusių
+    bg: Bulgarų
+    bn: Bengalų
+    bo: Tibetiečių
+    br: Bretonų
+    bs: Bosnių
+    ca: Katalonų / Valensijos
+    ce: Čečenų
+    co: Korsikiečių
+    cs: Čekų
+    cu: Bažnytinė slavų kalba
+    cy: Velsiečių
+    da: Danų
+    de: Vokiečių
+    el: graikų
+    en: Anglų
+    eo: Esperanto
+    es: Ispanų / Kastilų
+    et: Estų
+    eu: Baskų
+    fa: Persų
+    fi: Suomių
+    fj: Fidžių
+    fo: Farerų
+    fr: Prancūzų
+    fy: Vakarų fryzų
+    ga: Airių
+    gd: Gėlų / Škotijos gėlų
+    gl: Galisų
+    gv: Manksų
+    he: Hebrajų
+    hi: Hindi
+    hr: Kroatų
+    ht: Haitiečių; Haičio kreolų
+    hu: Vengrų
+    hy: Armėnų
+    id: Indoneziečių
+    is: Islandų
+    it: Italų
+    ja: Japonų
+    jv: Javiečių
+    ka: Gruzinų
+    kg: Kongo
+    ko: Korėjiečių
+    ku: Kurdų
+    kw: Kornų
+    ky: Kirgizų
+    la: Lotynų
+    lb: Liuksemburgiečių
+    li: Limburgiečių
+    ln: Lingala
+    lt: Lietuvių
+    lv: Latvių
+    mg: Malagasių
+    mk: Makedonų
+    mn: Mongolų
+    mo: Moldavų
+    ms: Malajų
+    mt: Maltiečių
+    my: Birmiečių
+    nb: Norvegų (standartinė kalba)
+    ne: Nepalų
+    nl: Olandų
+    nn: Norvegų (naujoji kalba)
+    no: Norvegų
+    oc: Oksitanų (po 1500 m.); provansalų
+    pl: Lenkų
+    pt: Portugalų
+    rm: Retoromanų kalbos
+    ro: Rumunų
+    ru: Rusų
+    sc: Sardinų
+    se: Šiaurės samių
+    sk: Slovakų
+    sl: Slovėnų
+    so: Somalių
+    sq: Albanų
+    sr: Serbų
+    sv: Švedų
+    sw: Svahilių
+    tk: Turkmėnų
+    tr: Turkų
+    ty: Taičio
+    uk: Ukrainiečių
+    ur: Urdu
+    uz: Uzbekų
+    vi: Vietnamiečių
+    vo: Volapiukas
+    yi: Jidiš
+    zh: Kinų
