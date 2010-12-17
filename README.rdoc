@@ -1,0 +1,4 @@
+These are YAML files for iso 639-1 languages.
+They have been auto generated from this wikipedia entry : http://en.wikipedia.org/wiki/ISO_639-1_language_matrix
+
+Feel free to fork and add the missing ones.
