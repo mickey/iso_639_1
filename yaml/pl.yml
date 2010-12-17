@@ -1,98 +1,98 @@
 pl:
   iso_639_1:
-    ab: abchaski
-    af: afrikaans
-    an: aragoński
-    ar: arabski
-    as: asamski
-    az: azerbejdżański
-    be: białoruski
-    bg: bułgarski
-    bn: bengalski
-    bo: tybetański
-    br: bretoński
-    bs: bośniacki
-    ca: kataloński / walencjański
-    ce: czeczeński
-    co: korsykański
-    cs: czeski
-    cu: cerkiewno-słowiański
-    cy: walijski
-    da: duński
-    de: niemiecki
-    el: grecki
-    en: angielski
-    eo: esperanto
-    es: hiszpański / kastylijski
-    et: estoński
-    eu: baskijski
-    fa: perski
-    fi: fiński
-    fj: fidżyjski
-    fo: farerski
-    fr: francuski
-    fy: zachodniofryzyjski
-    ga: irlandzki
-    gd: gaelicki / gaelski szkocki
-    gl: galisyjski
-    gv: manx
-    he: hebrajski
-    hi: hindi
-    hr: chorwacki
-    ht: haitański; kreolski haitański
-    hu: węgierski
-    hy: ormiański
-    id: indonezyjski
-    is: islandzki
-    it: włoski
-    ja: japoński
-    jv: jawajski
-    ka: gruziński
-    kg: kongo
-    ko: koreański
-    ku: kurdyjski
-    kw: kornijski
-    ky: kirgiski
-    la: łaciński
-    lb: luksemburski
-    li: limburski
-    ln: lingala
-    lt: litewski
-    lv: łotewski
-    mg: malgaski
-    mk: macedoński
-    mn: mongolski
-    mo: mołdawski
-    ms: malajski
-    mt: maltański
-    my: birmański
-    nb: norweski (bokmål)
-    ne: nepalski
-    nl: holenderski
-    nn: norweski (nynorsk)
-    no: norweski
-    oc: oksytański (po 1500); prowansalski
-    pl: polski
-    pt: portugalski
-    rm: retoromański
-    ro: rumuński
-    ru: rosyjski
-    sc: sardyński
-    se: północny sami
-    sk: słowacki
-    sl: słoweński
-    so: somalijski
-    sq: albański
-    sr: serbski
-    sv: szwedzki
-    sw: suahili
-    tk: turkmeński
-    tr: turecki
-    ty: tahitański
-    uk: ukraiński
-    ur: urdu
-    uz: uzbecki
-    vi: wietnamski
-    vo: volapük
-    yi: jidysz
-    zh: chiński
+    ab: "abchaski"
+    af: "afrikaans"
+    an: "aragoński"
+    ar: "arabski"
+    as: "asamski"
+    az: "azerbejdżański"
+    be: "białoruski"
+    bg: "bułgarski"
+    bn: "bengalski"
+    bo: "tybetański"
+    br: "bretoński"
+    bs: "bośniacki"
+    ca: "kataloński / walencjański"
+    ce: "czeczeński"
+    co: "korsykański"
+    cs: "czeski"
+    cu: "cerkiewno-słowiański"
+    cy: "walijski"
+    da: "duński"
+    de: "niemiecki"
+    el: "grecki"
+    en: "angielski"
+    eo: "esperanto"
+    es: "hiszpański / kastylijski"
+    et: "estoński"
+    eu: "baskijski"
+    fa: "perski"
+    fi: "fiński"
+    fj: "fidżyjski"
+    fo: "farerski"
+    fr: "francuski"
+    fy: "zachodniofryzyjski"
+    ga: "irlandzki"
+    gd: "gaelicki / gaelski szkocki"
+    gl: "galisyjski"
+    gv: "manx"
+    he: "hebrajski"
+    hi: "hindi"
+    hr: "chorwacki"
+    ht: "haitański; kreolski haitański"
+    hu: "węgierski"
+    hy: "ormiański"
+    id: "indonezyjski"
+    is: "islandzki"
+    it: "włoski"
+    ja: "japoński"
+    jv: "jawajski"
+    ka: "gruziński"
+    kg: "kongo"
+    ko: "koreański"
+    ku: "kurdyjski"
+    kw: "kornijski"
+    ky: "kirgiski"
+    la: "łaciński"
+    lb: "luksemburski"
+    li: "limburski"
+    ln: "lingala"
+    lt: "litewski"
+    lv: "łotewski"
+    mg: "malgaski"
+    mk: "macedoński"
+    mn: "mongolski"
+    mo: "mołdawski"
+    ms: "malajski"
+    mt: "maltański"
+    my: "birmański"
+    nb: "norweski (bokmål)"
+    ne: "nepalski"
+    nl: "holenderski"
+    nn: "norweski (nynorsk)"
+    no: "norweski"
+    oc: "oksytański (po 1500); prowansalski"
+    pl: "polski"
+    pt: "portugalski"
+    rm: "retoromański"
+    ro: "rumuński"
+    ru: "rosyjski"
+    sc: "sardyński"
+    se: "północny sami"
+    sk: "słowacki"
+    sl: "słoweński"
+    so: "somalijski"
+    sq: "albański"
+    sr: "serbski"
+    sv: "szwedzki"
+    sw: "suahili"
+    tk: "turkmeński"
+    tr: "turecki"
+    ty: "tahitański"
+    uk: "ukraiński"
+    ur: "urdu"
+    uz: "uzbecki"
+    vi: "wietnamski"
+    vo: "volapük"
+    yi: "jidysz"
+    zh: "chiński"

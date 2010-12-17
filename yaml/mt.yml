@@ -1,97 +1,97 @@
 mt:
   iso_639_1:
-    ab: Abkażjan
-    af: Afrikans
-    an: Aragoniż
-    ar: Għarbi
-    as: Assamiż
-    az: Ażerbajġani
-    be: Belarussu
-    bg: Bulgaru
-    bn: Bengali
-    bo: Tibetjan
-    br: Breton
-    bs: Bożnijaku
-    ca: Katalan / Valenzjan
-    ce: Ċeċen
-    co: Korsiku
-    cs: Ċek
-    cu: Slaviku tal-Knisja
-    cy: Welx
-    da: Daniż
-    de: Ġermaniż
-    el: Grieg
-    en: Ingliż
-    eo: Esperanto
-    es: Spanjol / Kastilljan
-    et: Estonjan
-    eu: Bask
-    fa: Persjan
-    fi: Finlandiż
-    fj: Fiġjan
-    fo: Fawriż
-    fr: Franċiż
-    fy: Friżjan tal-Punent
-    ga: Irlandiż
-    gd: Galliku / Galliku Skoċċiż
-    gl: Galizzjan
-    gv: Manks
-    he: Ebrajk
-    hi: Ħindi
-    hr: Kroat
-    ht: Ħaitjan; Kreol tal-Ħaiti
-    hu: Ungeriż
-    hy: Armen
-    id: Indoneżjan
-    is: Iżlandiż
-    it: Taljan
-    ja: Ġappuniż
-    jv: Ġavaniż
-    ka: Ġeorġjan
-    kg: Kongo
-    ko: Korean
-    ku: Kurd
-    kw: Korniku
-    ky: Kirgiż
-    la: Latin
-    lb: Lussemburgiż; Letzurgiż
-    li: Limburgan; Limburger; Limburgiż
-    ln: Lingala
-    lt: Litwan
-    lv: Latvjan
-    mg: Malagażi
-    mk: Maċedonjan
-    mn: Mongoljan
-    mo: Moldavjan
-    ms: Malajan
-    mt: Malti
-    my: Burmiż
-    nb: Norveġiż (Bokmahal)
-    ne: Nepaliż
-    nl: Olandiż
-    nn: Norveġiż (Ninorsk)
-    no: Norveġiż
-    oc: Oċċitan (wara l-1500); Provenzal
-    pl: Pollakk
-    pt: Portugiż
-    rm: Reto-Romanz
-    ro: Rumen
-    ru: Russu
-    sc: Sard
-    sk: Slovakk
-    sl: Sloven
-    so: Somali
-    sq: Albaniż
-    sr: Serb
-    sv: Svediż
-    sw: Swaħili
-    tk: Turkmen
-    tr: Tork
-    ty: Taħitjan
-    uk: Ukrain
-    ur: Urdu
-    uz: Użbek
-    vi: Vjetnamiż
-    vo: Volapuk
-    yi: Jiddix
-    zh: Ċiniż
+    ab: "abkażjan"
+    af: "afrikans"
+    an: "aragoniż"
+    ar: "għarbi"
+    as: "assamiż"
+    az: "ażerbajġani"
+    be: "belarussu"
+    bg: "bulgaru"
+    bn: "bengali"
+    bo: "tibetjan"
+    br: "breton"
+    bs: "bożnijaku"
+    ca: "katalan / valenzjan"
+    ce: "Ċeċen"
+    co: "korsiku"
+    cs: "Ċek"
+    cu: "slaviku tal-knisja"
+    cy: "welx"
+    da: "daniż"
+    de: "Ġermaniż"
+    el: "grieg"
+    en: "ingliż"
+    eo: "esperanto"
+    es: "spanjol / kastilljan"
+    et: "estonjan"
+    eu: "bask"
+    fa: "persjan"
+    fi: "finlandiż"
+    fj: "fiġjan"
+    fo: "fawriż"
+    fr: "franċiż"
+    fy: "friżjan tal-punent"
+    ga: "irlandiż"
+    gd: "galliku / galliku skoċċiż"
+    gl: "galizzjan"
+    gv: "manks"
+    he: "ebrajk"
+    hi: "Ħindi"
+    hr: "kroat"
+    ht: "Ħaitjan; kreol tal-Ħaiti"
+    hu: "ungeriż"
+    hy: "armen"
+    id: "indoneżjan"
+    is: "iżlandiż"
+    it: "taljan"
+    ja: "Ġappuniż"
+    jv: "Ġavaniż"
+    ka: "Ġeorġjan"
+    kg: "kongo"
+    ko: "korean"
+    ku: "kurd"
+    kw: "korniku"
+    ky: "kirgiż"
+    la: "latin"
+    lb: "lussemburgiż; letzurgiż"
+    li: "limburgan; limburger; limburgiż"
+    ln: "lingala"
+    lt: "litwan"
+    lv: "latvjan"
+    mg: "malagażi"
+    mk: "maċedonjan"
+    mn: "mongoljan"
+    mo: "moldavjan"
+    ms: "malajan"
+    mt: "malti"
+    my: "burmiż"
+    nb: "norveġiż (bokmahal)"
+    ne: "nepaliż"
+    nl: "olandiż"
+    nn: "norveġiż (ninorsk)"
+    no: "norveġiż"
+    oc: "oċċitan (wara l-1500); provenzal"
+    pl: "pollakk"
+    pt: "portugiż"
+    rm: "reto-romanz"
+    ro: "rumen"
+    ru: "russu"
+    sc: "sard"
+    sk: "slovakk"
+    sl: "sloven"
+    so: "somali"
+    sq: "albaniż"
+    sr: "serb"
+    sv: "svediż"
+    sw: "swaħili"
+    tk: "turkmen"
+    tr: "tork"
+    ty: "taħitjan"
+    uk: "ukrain"
+    ur: "urdu"
+    uz: "użbek"
+    vi: "vjetnamiż"
+    vo: "volapuk"
+    yi: "jiddix"
+    zh: "Ċiniż"

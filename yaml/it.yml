@@ -1,98 +1,98 @@
 it:
   iso_639_1:
-    ab: Abkhaziano
-    af: Afrikaans
-    an: Aragonese
-    ar: Arabo
-    as: Assamese
-    az: Azero
-    be: Bielorusso
-    bg: Bulgaro
-    bn: Lingua bengali
-    bo: Tibetano
-    br: Bretone
-    bs: Bosniaco
-    ca: Catalano / Valenciano
-    ce: Ceceno
-    co: Corso
-    cs: Ceco
-    cu: Church Slavonic
-    cy: Gallese
-    da: Danese
-    de: Tedesco
-    el: Greco
-    en: Inglese
-    eo: Esperanto
-    es: Spagnolo / Castigliano
-    et: Estone
-    eu: basco
-    fa: Persiano
-    fi: Finnico
-    fj: Fijian
-    fo: Faroese
-    fr: Francese
-    fy: Frisone
-    ga: Gaelico irlandese
-    gd: Gaelico scozzese
-    gl: Galiziano
-    gv: Manx
-    he: Ebraico
-    hi: Hindi
-    hr: Croato
-    ht: Creolo Haitiano; Haitiano
-    hu: Ungherese
-    hy: Armeno
-    id: Indonesiano
-    is: Islandese
-    it: Italiano
-    ja: Giapponese
-    jv: Giavanese
-    ka: Georgiano
-    kg: Kongo
-    ko: Coreano
-    ku: Curdo
-    kw: Cornico
-    ky: Kirghiso
-    la: Latino
-    lb: Lussemburghese
-    li: Limburghese
-    ln: Lingala
-    lt: Lituano
-    lv: Lettone
-    mg: Malagasy
-    mk: Macedone
-    mn: Mongolo
-    mo: Moldavo
-    ms: Malay
-    mt: Maltese
-    my: Burmese
-    nb: Norvegese (Bokmål)
-    ne: Nepalese
-    nl: Olandese
-    nn: Norvegese (Nynorsk)
-    no: Norvegese
-    oc: Occitano (dopo il 1500); Provenzale
-    pl: Polacco
-    pt: Portoghese
-    rm: Romancio, Reto-romanzo
-    ro: Rumeno
-    ru: Russo
-    sc: Sardo
-    se: Sami settentrionale
-    sk: Slovacco
-    sl: Sloveno
-    so: Somalo
-    sq: Albanese
-    sr: Serbo
-    sv: Svedese
-    sw: Swahili
-    tk: Turcmeno
-    tr: Turco
-    ty: Tahitian
-    uk: Ucraino
-    ur: Urdu
-    uz: Usbeco; usbeko, uzbeco, usbecco
-    vi: Vietnamita
-    vo: Volapük
-    yi: Yiddish
-    zh: Cinese
+    ab: "abkhaziano"
+    af: "afrikaans"
+    an: "aragonese"
+    ar: "arabo"
+    as: "assamese"
+    az: "azero"
+    be: "bielorusso"
+    bg: "bulgaro"
+    bn: "lingua bengali"
+    bo: "tibetano"
+    br: "bretone"
+    bs: "bosniaco"
+    ca: "catalano / valenciano"
+    ce: "ceceno"
+    co: "corso"
+    cs: "ceco"
+    cu: "church slavonic"
+    cy: "gallese"
+    da: "danese"
+    de: "tedesco"
+    el: "greco"
+    en: "inglese"
+    eo: "esperanto"
+    es: "spagnolo / castigliano"
+    et: "estone"
+    eu: "basco"
+    fa: "persiano"
+    fi: "finnico"
+    fj: "fijian"
+    fo: "faroese"
+    fr: "francese"
+    fy: "frisone"
+    ga: "gaelico irlandese"
+    gd: "gaelico scozzese"
+    gl: "galiziano"
+    gv: "manx"
+    he: "ebraico"
+    hi: "hindi"
+    hr: "croato"
+    ht: "creolo haitiano; haitiano"
+    hu: "ungherese"
+    hy: "armeno"
+    id: "indonesiano"
+    is: "islandese"
+    it: "italiano"
+    ja: "giapponese"
+    jv: "giavanese"
+    ka: "georgiano"
+    kg: "kongo"
+    ko: "coreano"
+    ku: "curdo"
+    kw: "cornico"
+    ky: "kirghiso"
+    la: "latino"
+    lb: "lussemburghese"
+    li: "limburghese"
+    ln: "lingala"
+    lt: "lituano"
+    lv: "lettone"
+    mg: "malagasy"
+    mk: "macedone"
+    mn: "mongolo"
+    mo: "moldavo"
+    ms: "malay"
+    mt: "maltese"
+    my: "burmese"
+    nb: "norvegese (bokmål)"
+    ne: "nepalese"
+    nl: "olandese"
+    nn: "norvegese (nynorsk)"
+    no: "norvegese"
+    oc: "occitano (dopo il 1500); provenzale"
+    pl: "polacco"
+    pt: "portoghese"
+    rm: "romancio, reto-romanzo"
+    ro: "rumeno"
+    ru: "russo"
+    sc: "sardo"
+    se: "sami settentrionale"
+    sk: "slovacco"
+    sl: "sloveno"
+    so: "somalo"
+    sq: "albanese"
+    sr: "serbo"
+    sv: "svedese"
+    sw: "swahili"
+    tk: "turcmeno"
+    tr: "turco"
+    ty: "tahitian"
+    uk: "ucraino"
+    ur: "urdu"
+    uz: "usbeco; usbeko, uzbeco, usbecco"
+    vi: "vietnamita"
+    vo: "volapük"
+    yi: "yiddish"
+    zh: "cinese"

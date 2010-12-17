@@ -1,98 +1,98 @@
 da:
   iso_639_1:
-    ab: Abkhazian[citation needed]
-    af: Afrikaans
-    an: Aragonesisk
-    ar: Arabisk
-    as: Assamesisk
-    az: Aserbajdsjansk
-    be: Hviderussisk
-    bg: Bulgarsk
-    bn: Bengali[citation needed]
-    bo: Tibetansk
-    br: Bretonsk
-    bs: Bosnisk
-    ca: Catalansk
-    ce: Tjetjensk
-    co: Korsikansk
-    cs: Tjekkisk
-    cu: Kirkeslavisk
-    cy: Walisisk
-    da: Dansk
-    de: Tysk
-    el: Græsk
-    en: Engelsk
-    eo: Eperanto
-    es: Spansk
-    et: Estisk
-    eu: Baskisk
-    fa: Persisk
-    fi: Finsk
-    fj: Fijian[citation needed]
-    fo: Færøsk
-    fr: Fransk
-    fy: Frisisk
-    ga: Irsk
-    gd: Gælisk / Skotsk
-    gl: Gallegan[citation needed]
-    gv: Manx[citation needed]
-    he: Hebraisk
-    hi: Hindi[citation needed]
-    hr: Kroatisk
-    ht: Haitisk
-    hu: Ungarsk
-    hy: Armensk
-    id: Indonesisk
-    is: Islandsk
-    it: Italiensk
-    ja: Japansk
-    jv: Javanesisk
-    ka: Georgisk
-    kg: Kongo
-    ko: Koreansk
-    ku: Kurdisk
-    kw: Cornisk
-    ky: Kirgisisk
-    la: Latin[citation needed]
-    lb: Letzeburgesch[citation needed]
-    li: Limburgish[citation needed]
-    ln: Lingala
-    lt: Litauisk
-    lv: Lettisk
-    mg: Malagasy[citation needed]
-    mk: Makedonsk
-    mn: Mongolsk
-    mo: Moldovisk
-    ms: Malajisk
-    mt: Maltesisk
-    my: Burmesisk
-    nb: Norsk (Riksmål)
-    ne: Nepalesisk
-    nl: Hollandsk
-    nn: Norsk (Nynorsk)
-    no: Norsk
-    oc: Occitansk
-    pl: Polsk
-    pt: Portugisisk
-    rm: Rætoromansk
-    ro: Rumænsk
-    ru: Russisk
-    sc: Sardinsk
-    se: Nordsamisk
-    sk: Slovakisk
-    sl: Slovensk
-    so: Somalisk
-    sq: Albansk
-    sr: Serbisk
-    sv: Svensk
-    sw: Swahili
-    tk: Turkmensk
-    tr: Tyrkisk
-    ty: Tahitiansk
-    uk: Ukrainsk
-    ur: Urdu
-    uz: Usbekisk
-    vi: Vietnamesisk
-    vo: Volapük
-    yi: Jiddisch[citation needed]
-    zh: Kinesisk 
+    ab: "abkhazian[citation needed]"
+    af: "afrikaans"
+    an: "aragonesisk"
+    ar: "arabisk"
+    as: "assamesisk"
+    az: "aserbajdsjansk"
+    be: "hviderussisk"
+    bg: "bulgarsk"
+    bn: "bengali[citation needed]"
+    bo: "tibetansk"
+    br: "bretonsk"
+    bs: "bosnisk"
+    ca: "catalansk"
+    ce: "tjetjensk"
+    co: "korsikansk"
+    cs: "tjekkisk"
+    cu: "kirkeslavisk"
+    cy: "walisisk"
+    da: "dansk"
+    de: "tysk"
+    el: "græsk"
+    en: "engelsk"
+    eo: "eperanto"
+    es: "spansk"
+    et: "estisk"
+    eu: "baskisk"
+    fa: "persisk"
+    fi: "finsk"
+    fj: "fijian[citation needed]"
+    fo: "færøsk"
+    fr: "fransk"
+    fy: "frisisk"
+    ga: "irsk"
+    gd: "gælisk / skotsk"
+    gl: "gallegan[citation needed]"
+    gv: "manx[citation needed]"
+    he: "hebraisk"
+    hi: "hindi[citation needed]"
+    hr: "kroatisk"
+    ht: "haitisk"
+    hu: "ungarsk"
+    hy: "armensk"
+    id: "indonesisk"
+    is: "islandsk"
+    it: "italiensk"
+    ja: "japansk"
+    jv: "javanesisk"
+    ka: "georgisk"
+    kg: "kongo"
+    ko: "koreansk"
+    ku: "kurdisk"
+    kw: "cornisk"
+    ky: "kirgisisk"
+    la: "latin[citation needed]"
+    lb: "letzeburgesch[citation needed]"
+    li: "limburgish[citation needed]"
+    ln: "lingala"
+    lt: "litauisk"
+    lv: "lettisk"
+    mg: "malagasy[citation needed]"
+    mk: "makedonsk"
+    mn: "mongolsk"
+    mo: "moldovisk"
+    ms: "malajisk"
+    mt: "maltesisk"
+    my: "burmesisk"
+    nb: "norsk (riksmål)"
+    ne: "nepalesisk"
+    nl: "hollandsk"
+    nn: "norsk (nynorsk)"
+    no: "norsk"
+    oc: "occitansk"
+    pl: "polsk"
+    pt: "portugisisk"
+    rm: "rætoromansk"
+    ro: "rumænsk"
+    ru: "russisk"
+    sc: "sardinsk"
+    se: "nordsamisk"
+    sk: "slovakisk"
+    sl: "slovensk"
+    so: "somalisk"
+    sq: "albansk"
+    sr: "serbisk"
+    sv: "svensk"
+    sw: "swahili"
+    tk: "turkmensk"
+    tr: "tyrkisk"
+    ty: "tahitiansk"
+    uk: "ukrainsk"
+    ur: "urdu"
+    uz: "usbekisk"
+    vi: "vietnamesisk"
+    vo: "volapük"
+    yi: "jiddisch[citation needed]"
+    zh: "kinesisk"

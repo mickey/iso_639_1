@@ -1,98 +1,98 @@
 en:
   iso_639_1:
-  	ab: Abkhazian
-  	af: Afrikaans
-  	an: Aragonese
-  	ar: Arabic
-  	as: Assamese
-  	az: Azerbaijani
-  	be: Belarusian
-  	bg: Bulgarian
-  	bn: Bengali
-  	bo: Tibetan
-  	br: Breton
-  	bs: Bosnian
-  	ca: Catalan / Valencian
-  	ce: Chechen
-  	co: Corsican
-  	cs: Czech
-  	cu: Church Slavic
-  	cy: Welsh
-  	da: Danish
-  	de: German
-  	el: Greek
-  	en: English
-  	eo: Esperanto
-  	es: Spanish / Castilian
-  	et: Estonian
-  	eu: Basque
-  	fa: Persian
-  	fi: Finnish
-  	fj: Fijian
-  	fo: Faroese
-  	fr: French
-  	fy: Western Frisian
-  	ga: Irish
-  	gd: Gaelic / Scottish Gaelic
-  	gl: Galician
-  	gv: Manx
-  	he: Hebrew
-  	hi: Hindi
-  	hr: Croatian
-  	ht: Haitian; Haitian Creole
-  	hu: Hungarian
-  	hy: Armenian
-  	id: Indonesian
-  	is: Icelandic
-  	it: Italian
-  	ja: Japanese
-  	jv: Javanese
-  	ka: Georgian
-  	kg: Kongo
-  	ko: Korean
-  	ku: Kurdish
-  	kw: Cornish
-  	ky: Kirghiz
-  	la: Latin
-  	lb: Luxembourgish; Letzeburgesch
-  	li: Limburgan; Limburger; Limburgish
-  	ln: Lingala
-  	lt: Lithuanian
-  	lv: Latvian
-  	mg: Malagasy
-  	mk: Macedonian
-  	mn: Mongolian
-  	mo: Moldavian
-  	ms: Malay
-  	mt: Maltese
-  	my: Burmese
-  	nb: Norwegian (Bokmål)
-  	ne: Nepali
-  	nl: Dutch
-  	nn: Norwegian (Nynorsk)
-  	no: Norwegian
-  	oc: Occitan (post 1500); Provençal
-  	pl: Polish
-  	pt: Portuguese
-  	rm: Raeto-Romance
-  	ro: Romanian
-  	ru: Russian
-  	sc: Sardinian
-  	se: Northern Sami
-  	sk: Slovak
-  	sl: Slovenian
-  	so: Somali
-  	sq: Albanian
-  	sr: Serbian
-  	sv: Swedish
-  	sw: Swahili
-  	tk: Turkmen
-  	tr: Turkish
-  	ty: Tahitian
-  	uk: Ukrainian
-  	ur: Urdu
-  	uz: Uzbek
-  	vi: Vietnamese
-  	vo: Volapuk
-  	yi: Yiddish
-  	zh: Chinese
+    ab: "abkhazian"
+    af: "afrikaans"
+    an: "aragonese"
+    ar: "arabic"
+    as: "assamese"
+    az: "azerbaijani"
+    be: "belarusian"
+    bg: "bulgarian"
+    bn: "bengali"
+    bo: "tibetan"
+    br: "breton"
+    bs: "bosnian"
+    ca: "catalan / valencian"
+    ce: "chechen"
+    co: "corsican"
+    cs: "czech"
+    cu: "church slavic"
+    cy: "welsh"
+    da: "danish"
+    de: "german"
+    el: "greek"
+    en: "english"
+    eo: "esperanto"
+    es: "spanish / castilian"
+    et: "estonian"
+    eu: "basque"
+    fa: "persian"
+    fi: "finnish"
+    fj: "fijian"
+    fo: "faroese"
+    fr: "french"
+    fy: "western frisian"
+    ga: "irish"
+    gd: "gaelic / scottish gaelic"
+    gl: "galician"
+    gv: "manx"
+    he: "hebrew"
+    hi: "hindi"
+    hr: "croatian"
+    ht: "haitian; haitian creole"
+    hu: "hungarian"
+    hy: "armenian"
+    id: "indonesian"
+    is: "icelandic"
+    it: "italian"
+    ja: "japanese"
+    jv: "javanese"
+    ka: "georgian"
+    kg: "kongo"
+    ko: "korean"
+    ku: "kurdish"
+    kw: "cornish"
+    ky: "kirghiz"
+    la: "latin"
+    lb: "luxembourgish; letzeburgesch"
+    li: "limburgan; limburger; limburgish"
+    ln: "lingala"
+    lt: "lithuanian"
+    lv: "latvian"
+    mg: "malagasy"
+    mk: "macedonian"
+    mn: "mongolian"
+    mo: "moldavian"
+    ms: "malay"
+    mt: "maltese"
+    my: "burmese"
+    nb: "norwegian (bokmål)"
+    ne: "nepali"
+    nl: "dutch"
+    nn: "norwegian (nynorsk)"
+    no: "norwegian"
+    oc: "occitan (post 1500); provençal"
+    pl: "polish"
+    pt: "portuguese"
+    rm: "raeto-romance"
+    ro: "romanian"
+    ru: "russian"
+    sc: "sardinian"
+    se: "northern sami"
+    sk: "slovak"
+    sl: "slovenian"
+    so: "somali"
+    sq: "albanian"
+    sr: "serbian"
+    sv: "swedish"
+    sw: "swahili"
+    tk: "turkmen"
+    tr: "turkish"
+    ty: "tahitian"
+    uk: "ukrainian"
+    ur: "urdu"
+    uz: "uzbek"
+    vi: "vietnamese"
+    vo: "volapuk"
+    yi: "yiddish"
+    zh: "chinese"

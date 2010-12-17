@@ -1,98 +1,98 @@
 hu:
   iso_639_1:
-    ab: Abház
-    af: Afrikaans
-    an: Aragóniai
-    ar: Arab
-    as: Assamesse
-    az: Azerbajdzsáni
-    be: Belorusz
-    bg: Bolgár
-    bn: Bengáli
-    bo: Tibeti
-    br: Breton
-    bs: Bosnyák
-    ca: Katalán/ valenciai
-    ce: Csecsen
-    co: Korzikai
-    cs: Cseh
-    cu: Templomi szláv
-    cy: Welszi
-    da: Dán
-    de: Német
-    el: görög
-    en: Angol
-    eo: Eszperantó
-    es: Spanyol / Kasztíliai
-    et: Észt
-    eu: Baskír
-    fa: Perzsa
-    fi: Finn
-    fj: Fijian
-    fo: Faroese
-    fr: Francia
-    fy: Nyugati fríz
-    ga: Ír
-    gd: Gael / skót gael
-    gl: Galíciai
-    gv: Manx
-    he: Héber
-    hi: Hindi
-    hr: Horvát
-    ht: Haiti; haiti kreol
-    hu: Magyar
-    hy: Örmény
-    id: Indonéziai
-    is: Izlandi
-    it: Olasz
-    ja: Japán
-    jv: Jávai
-    ka: Grúz
-    kg: Kongó
-    ko: Koreai
-    ku: Kurd
-    kw: Cornwalli kelta
-    ky: Kirgíz
-    la: Latin
-    lb: Luxemburgi
-    li: Limburgi
-    ln: Lingala
-    lt: Litván
-    lv: Lett
-    mg: Malagasy
-    mk: Macedón
-    mn: Mongol
-    mo: Moldáv
-    ms: Maláj
-    mt: Máltai
-    my: Burméziai
-    nb: Novég (Bokmal)
-    ne: Nepáli
-    nl: Holland
-    nn: Norvég (Nynorsk)
-    no: Ónorvég
-    oc: Gall (1500 után); Provençal
-    pl: Lengyel
-    pt: Portugál
-    rm: Rétoromán
-    ro: Román
-    ru: Orosz
-    sc: Szardíniai
-    se: Északi sami
-    sk: Szlovák
-    sl: Szlovén
-    so: Szomáli
-    sq: Albán
-    sr: Szerb
-    sv: svéd
-    sw: Swahili
-    tk: Türkmén
-    tr: Török
-    ty: Tahiti
-    uk: Ukrán
-    ur: Urdu
-    uz: Üzbég
-    vi: Vietnámi
-    vo: Volapük
-    yi: Jiddis
-    zh: Kinai
+    ab: "abház"
+    af: "afrikaans"
+    an: "aragóniai"
+    ar: "arab"
+    as: "assamesse"
+    az: "azerbajdzsáni"
+    be: "belorusz"
+    bg: "bolgár"
+    bn: "bengáli"
+    bo: "tibeti"
+    br: "breton"
+    bs: "bosnyák"
+    ca: "katalán/ valenciai"
+    ce: "csecsen"
+    co: "korzikai"
+    cs: "cseh"
+    cu: "templomi szláv"
+    cy: "welszi"
+    da: "dán"
+    de: "német"
+    el: "görög"
+    en: "angol"
+    eo: "eszperantó"
+    es: "spanyol / kasztíliai"
+    et: "Észt"
+    eu: "baskír"
+    fa: "perzsa"
+    fi: "finn"
+    fj: "fijian"
+    fo: "faroese"
+    fr: "francia"
+    fy: "nyugati fríz"
+    ga: "Ír"
+    gd: "gael / skót gael"
+    gl: "galíciai"
+    gv: "manx"
+    he: "héber"
+    hi: "hindi"
+    hr: "horvát"
+    ht: "haiti; haiti kreol"
+    hu: "magyar"
+    hy: "Örmény"
+    id: "indonéziai"
+    is: "izlandi"
+    it: "olasz"
+    ja: "japán"
+    jv: "jávai"
+    ka: "grúz"
+    kg: "kongó"
+    ko: "koreai"
+    ku: "kurd"
+    kw: "cornwalli kelta"
+    ky: "kirgíz"
+    la: "latin"
+    lb: "luxemburgi"
+    li: "limburgi"
+    ln: "lingala"
+    lt: "litván"
+    lv: "lett"
+    mg: "malagasy"
+    mk: "macedón"
+    mn: "mongol"
+    mo: "moldáv"
+    ms: "maláj"
+    mt: "máltai"
+    my: "burméziai"
+    nb: "novég (bokmal)"
+    ne: "nepáli"
+    nl: "holland"
+    nn: "norvég (nynorsk)"
+    no: "Ónorvég"
+    oc: "gall (1500 után); provençal"
+    pl: "lengyel"
+    pt: "portugál"
+    rm: "rétoromán"
+    ro: "román"
+    ru: "orosz"
+    sc: "szardíniai"
+    se: "Északi sami"
+    sk: "szlovák"
+    sl: "szlovén"
+    so: "szomáli"
+    sq: "albán"
+    sr: "szerb"
+    sv: "svéd"
+    sw: "swahili"
+    tk: "türkmén"
+    tr: "török"
+    ty: "tahiti"
+    uk: "ukrán"
+    ur: "urdu"
+    uz: "Üzbég"
+    vi: "vietnámi"
+    vo: "volapük"
+    yi: "jiddis"
+    zh: "kinai"
